@@ -1,4 +1,4 @@
-# Andrew-Thiesen-Cyber-Security-Portfolio
+# Andrew Thiesen CyberSecurity Portfolio
 
 > Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned! 
 
